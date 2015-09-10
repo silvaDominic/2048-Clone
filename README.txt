@@ -1,6 +1,6 @@
-2048 Clone
+---------------2048 Clone----------------------
 
-An attempt to recreate the game 2048 using Python.
+This is a first attempt at recreating the game 2048 using Python as part of the online Course, Intro to Computer Programming.
 
 
 - Dominic Silva
